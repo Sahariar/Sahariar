@@ -12,7 +12,7 @@ I am Sahariar Kabir A Mern Stack Developer. The most important thing I like to t
 * 🧠  I'm learning TypeScript
 
 <a href="https://www.github.com/Sahariar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Sahariar?logo=github&style=for-the-badge&color=ffffff&labelColor=27272a" /></a><a href="https://www.twitter.com/Sahariar__Kabir" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Sahariar?logo=github&style=for-the-badge&color=ffffff&labelColor=27272a" /></a><a href="https://www.twitter.com/imsahariarkabir" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/imsahariarkabir?logo=twitter&style=for-the-badge&color=ffffff&labelColor=27272a"
 /></a>
 
