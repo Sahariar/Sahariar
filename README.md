@@ -1,10 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahariar kabir
 ======================================================================================================================================
 
-Mern Stack Developer
+PHP Developer
 --------------------
 
-I am Sahariar Kabir A Mern Stack Developer. The most important thing I like to tell is honest work. It matters when you build long-term relationships. I always like to take challenges with my work. I try to solve problems that my client have with their sites and have thrust for work. I love to do work and I try to make my client happy. I always try to be available for my client's projects. I am a quick learner and I know if I try I can do it. If I have work I try to finish with quality. I think customer satisfaction is the only thing that makes businessmen, and Professional work Happy. I love to communicate with new people and love to know about their problems and find out how to solve those.
+👋 Hi there! I'm Sahariar Kabir, a passionate PHP Developer dedicated to crafting high-quality web solutions. My focus is on delivering honest, reliable work that builds long-term relationships with clients.
+
+🔧 What I Do:
+
+Solve complex problems with tailored PHP solutions
+Ensure high-quality, efficient code and seamless user experiences
+Stay responsive and committed to meeting client needs
+🚀 Why I Do It:
+
+I thrive on challenges and learning opportunities
+My goal is to exceed expectations and achieve client satisfaction
+I love connecting with people, understanding their challenges, and finding effective solutions
+📈 Let’s Connect:
+Feel free to check out my projects, contributions, and reach out if you’d like to collaborate or just chat about development!
 
 * 🌍  I'm based in Khulna
 * 🖥️  See my portfolio at [MY Portfolio](http://sahariar-kabir.web.app/home)
