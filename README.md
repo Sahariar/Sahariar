@@ -7,17 +7,17 @@ PHP Developer
 👋 Hi there! I'm Sahariar Kabir, a passionate PHP Developer dedicated to crafting high-quality web solutions. My focus is on delivering honest, reliable work that builds long-term relationships with clients.
 
 🔧 What I Do:
-
 Solve complex problems with tailored PHP solutions
 Ensure high-quality, efficient code and seamless user experiences
 Stay responsive and committed to meeting client needs
-🚀 Why I Do It:
 
+🚀 Why I Do It:
 I thrive on challenges and learning opportunities
 My goal is to exceed expectations and achieve client satisfaction
 I love connecting with people, understanding their challenges, and finding effective solutions
+
 📈 Let’s Connect:
-Feel free to check out my projects, contributions, and reach out if you’d like to collaborate or just chat about development!
+Feel free to check out my projects, and contributions, and reach out if you’d like to collaborate or just chat about development!
 
 * 🌍  I'm based in Khulna
 * 🖥️  See my portfolio at [MY Portfolio](http://sahariar-kabir.web.app/home)
